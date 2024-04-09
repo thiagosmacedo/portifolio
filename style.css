@@ -3,53 +3,24 @@
     padding: 0;
     font-family: "Work Sans", sans-serif;
     box-sizing: border-box;
+    margin-top: 10px;
 }
 
-header {
-    margin: 30px 0 100px 40px;
-}
-
-.link-header {
-
-    font-size: 18px;
-    font-weight: 400;
-    line-height: 21px;
-    letter-spacing: 1px;
-    text-align: center;
-    color: rgb(77, 78, 81);
-    cursor: pointer;
-    margin-right: 28px;
-}
-
-.link-join {
-    width: 100px;
-    height: 36px;
-    border-radius: 28%;
-    border: solid;
-    border-color: orangered;
-    background: rgb(107, 107, 207);
-    letter-spacing: 1px;
-    text-align: center;
-    cursor: pointer;
-    font-size: 18px;
-    font-weight: 400;
-    color: rgb(77, 78, 81);
-}
 
 main {
     display: inline-block;
 }
 
 img {
-    height: 700px;
-    width: 750px;
+    height: 600px;
+    width: 600px;
 
 }
 
 div {
     display: inline-block;
     position: absolute;
-    margin: 180px 0 0 30px;
+    margin: 0 0 0 30px;
 
 
 
@@ -64,26 +35,38 @@ h1 {
 
 }
 
-p {
-    width: 700px;
-    height: 150px;
+.first {
+    width: 650px;
+    height: 140px;
     font-size: 22px;
     font-weight: 300;
-    margin: 30px 0 30px 0;
+    margin: 30px 0 10px 0;
 
 }
 
-button {
+ul {
+    width: 400px;
+    height: 150px;
+    font-size: 22px;
+    font-weight: 300;
+    margin: 0 0 10px 21px;
 
-    width: 180px;
-    height: 75px;
-    border: none;
-    background-color: greenyellow;
-    border-radius: 30px;
+}
+
+.second {
+    width: 650px;
+    height: 140px;
+    font-size: 22px;
+    font-weight: 300;
+    margin: 30px 0 10px 0;
+}
+
+
+.linkedin{
+    width: 60px;
+    height: 60px;
     cursor: pointer;
-    font-size: 21px;
-    font-weight: 400;
-    color: white;
+    
 
 
 }
