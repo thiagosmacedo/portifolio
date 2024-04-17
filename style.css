@@ -3,6 +3,7 @@
     padding: 0;
     font-family: "Work Sans", sans-serif;
     box-sizing: border-box;
+    background-color: black;
     
 }
 
@@ -15,6 +16,7 @@ main {
 img {
     height: 600px;
     width: 600px;
+    border-radius: 23px;
 
 }
 
@@ -24,7 +26,6 @@ div {
     margin: 5px 0 0 30px;
 
 
-
 }
 
 h1 {
@@ -32,7 +33,7 @@ h1 {
     height: 70px;
     font-size: 55px;
     font-weight: 700;
-    color: rgb(71, 69, 69);
+    color: rgb(205, 197, 197);
 
 }
 
@@ -42,6 +43,7 @@ h1 {
     font-size: 22px;
     font-weight: 300;
     margin: 30px 0 10px 0;
+    color: rgb(205, 197, 197);
 
 }
 
@@ -51,6 +53,8 @@ ul {
     font-size: 22px;
     font-weight: 300;
     margin: 0 0 10px 21px;
+    color: rgb(205, 197, 197);
+    font-style: italic;
 
 }
 
@@ -60,6 +64,7 @@ ul {
     font-size: 22px;
     font-weight: 300;
     margin: 0px 0 5px 0;
+    color: rgb(205, 197, 197);
 }
 
 
