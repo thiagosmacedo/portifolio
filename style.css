@@ -4,7 +4,7 @@
     font-family: "Work Sans", sans-serif;
     box-sizing: border-box;
     background-color: black;
-    
+
 }
 
 
@@ -68,26 +68,26 @@ ul {
 }
 
 
-.linkedin{
+.linkedin {
     width: 60px;
     height: 60px;
     cursor: pointer;
 }
-    
 
-.zap{
+
+.zap {
     width: 40px;
     height: 40px;
     cursor: pointer;
     border-radius: 5px;
     margin-bottom: 9px;
-    margin-left: 10px; 
-    
+    margin-left: 10px;
+
 }
 
 .linkedin:hover {
     opacity: 0.5;
-       
+
 }
 
 .zap:hover {
