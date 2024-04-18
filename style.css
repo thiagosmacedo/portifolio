@@ -13,7 +13,7 @@ main {
     margin-top: 10px;
 }
 
-img {
+.foto {
     height: 600px;
     width: 600px;
     border-radius: 23px;
@@ -33,7 +33,7 @@ h1 {
     height: 70px;
     font-size: 55px;
     font-weight: 700;
-    color: rgb(205, 197, 197);
+    color: rgb(237, 231, 231);
 
 }
 
@@ -72,8 +72,8 @@ ul {
     width: 60px;
     height: 60px;
     cursor: pointer;
-    
 }
+    
 
 .zap{
     width: 40px;
@@ -81,5 +81,16 @@ ul {
     cursor: pointer;
     border-radius: 5px;
     margin-bottom: 9px;
-    margin-left: 10px;    
+    margin-left: 10px; 
+    
+}
+
+.linkedin:hover {
+    opacity: 0.5;
+       
+}
+
+.zap:hover {
+    opacity: 0.5;
+
 }
